@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppRecetas</string>
+    <string name="image_receta">foto de la receta</string>
+    <string name="IrAgregarNota">+</string>
+    <string name="buscar">Buscar</string>
+    <string name="back">Back</string>
+    <string name="titulo2">Titulo</string>
+    <string name="descripcionNota">Descripcion</string>
+    <string name="registro_de_nota">Registro de Nota</string>
+    <string name="guardarNota">Guardar</string>
+    <string name="otra_informacionNota">Otra informacion</string>
+    <string name="realizar_grabacionNota">Realizar grabacion</string>
+    <string name="agregar_recordatoriosNota">Agregar recordatorios</string>
+    <string name="adjuntar_archivosNota">Adjuntar Archivos</string>
+</resources>
